@@ -1,6 +1,8 @@
+
 build: off
-#image: previous visual studio 2017
+
 os: unstable
+
 platform:
   - x86
   - x64
