@@ -7,8 +7,8 @@ platform:
 
 skip_tags: true
 
-environment:
-  nodejs_version: "LTS"
+#environment:
+ # nodejs_version: "LTS"
 
 cache:
   - node_modules -> package.json
