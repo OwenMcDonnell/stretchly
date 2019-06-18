@@ -1,6 +1,6 @@
 build: off
-image: previous visual studio 2017
-
+#image: previous visual studio 2017
+os: unstable
 platform:
   - x86
   - x64
@@ -8,7 +8,7 @@ platform:
 skip_tags: true
 
 environment:
-  nodejs_version: "11.0.0"
+  nodejs_version: "current"
 
 cache:
   - node_modules -> package.json
