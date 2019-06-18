@@ -1,6 +1,5 @@
 build: off
-
-#os: unstable
+image: visual studio 2017
 
 platform:
   - x86
