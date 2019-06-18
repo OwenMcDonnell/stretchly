@@ -1,6 +1,6 @@
 build: off
 
-os: unstable
+#os: unstable
 
 platform:
   - x86
