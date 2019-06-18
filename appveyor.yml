@@ -1,5 +1,5 @@
 build: off
-image: visual studio 2017
+image: previous visual studio 2015
 
 platform:
   - x86
